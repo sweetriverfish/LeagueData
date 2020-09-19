@@ -1,5 +1,5 @@
-{
-	"0": {
+[
+	{
 		"id": 0,
 		"map": null,
 		"description": "Custom Games",
@@ -15,7 +15,7 @@
 		"tutorial": null,
 		"tft": null
 	},
-	"2": {
+	{
 		"id": 2,
 		"map": "Summoner's Rift",
 		"description": "5v5 Blind Pick",
@@ -31,7 +31,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"4": {
+	{
 		"id": 4,
 		"map": "Summoner's Rift",
 		"description": "5v5 Ranked Solo",
@@ -47,7 +47,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"6": {
+	{
 		"id": 6,
 		"map": "Summoner's Rift",
 		"description": "5v5 Ranked Premade",
@@ -63,7 +63,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"7": {
+	{
 		"id": 7,
 		"map": "Summoner's Rift",
 		"description": "Co-op vs AI",
@@ -79,7 +79,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"8": {
+	{
 		"id": 8,
 		"map": "Twisted Treeline",
 		"description": "3v3 Normal",
@@ -95,7 +95,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"9": {
+	{
 		"id": 9,
 		"map": "Twisted Treeline",
 		"description": "3v3 Ranked Flex",
@@ -111,7 +111,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"14": {
+	{
 		"id": 14,
 		"map": "Summoner's Rift",
 		"description": "5v5 Draft Pick",
@@ -127,7 +127,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"16": {
+	{
 		"id": 16,
 		"map": "Crystal Scar",
 		"description": "5v5 Dominion Blind Pick",
@@ -143,7 +143,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"17": {
+	{
 		"id": 17,
 		"map": "Crystal Scar",
 		"description": "5v5 Dominion Draft Pick",
@@ -159,7 +159,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"25": {
+	{
 		"id": 25,
 		"map": "Crystal Scar",
 		"description": "Dominion Co-op vs AI",
@@ -175,7 +175,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"31": {
+	{
 		"id": 31,
 		"map": "Summoner's Rift",
 		"description": "Co-op vs AI Intro",
@@ -191,7 +191,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"32": {
+	{
 		"id": 32,
 		"map": "Summoner's Rift",
 		"description": "Co-op vs AI Beginner",
@@ -207,7 +207,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"33": {
+	{
 		"id": 33,
 		"map": "Summoner's Rift",
 		"description": "Co-op vs AI Intermediate",
@@ -223,7 +223,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"41": {
+	{
 		"id": 41,
 		"map": "Twisted Treeline",
 		"description": "3v3 Ranked Team",
@@ -239,7 +239,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"42": {
+	{
 		"id": 42,
 		"map": "Summoner's Rift",
 		"description": "5v5 Ranked Team",
@@ -255,7 +255,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"52": {
+	{
 		"id": 52,
 		"map": "Twisted Treeline",
 		"description": "Co-op vs AI",
@@ -271,7 +271,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"61": {
+	{
 		"id": 61,
 		"map": "Summoner's Rift",
 		"description": "5v5 Team Builder",
@@ -287,7 +287,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"65": {
+	{
 		"id": 65,
 		"map": "Howling Abyss",
 		"description": "5v5 ARAM",
@@ -303,7 +303,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"67": {
+	{
 		"id": 67,
 		"map": "Howling Abyss",
 		"description": "ARAM Co-op vs AI",
@@ -319,7 +319,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"70": {
+	{
 		"id": 70,
 		"map": "Summoner's Rift",
 		"description": "One for All",
@@ -335,7 +335,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"72": {
+	{
 		"id": 72,
 		"map": "Howling Abyss",
 		"description": "1v1 Snowdown Showdown",
@@ -351,7 +351,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"73": {
+	{
 		"id": 73,
 		"map": "Howling Abyss",
 		"description": "2v2 Snowdown Showdown",
@@ -367,7 +367,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"75": {
+	{
 		"id": 75,
 		"map": "Summoner's Rift",
 		"description": "6v6 Hexakill",
@@ -383,7 +383,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"76": {
+	{
 		"id": 76,
 		"map": "Summoner's Rift",
 		"description": "Ultra Rapid Fire",
@@ -399,7 +399,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"78": {
+	{
 		"id": 78,
 		"map": "Howling Abyss",
 		"description": "One For All: Mirror Mode",
@@ -415,7 +415,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"83": {
+	{
 		"id": 83,
 		"map": "Summoner's Rift",
 		"description": "Co-op vs AI Ultra Rapid Fire",
@@ -431,7 +431,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"91": {
+	{
 		"id": 91,
 		"map": "Summoner's Rift",
 		"description": "Doom Bots Rank 1",
@@ -447,7 +447,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"92": {
+	{
 		"id": 92,
 		"map": "Summoner's Rift",
 		"description": "Doom Bots Rank 2",
@@ -463,7 +463,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"93": {
+	{
 		"id": 93,
 		"map": "Summoner's Rift",
 		"description": "Doom Bots Rank 3",
@@ -479,7 +479,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"96": {
+	{
 		"id": 96,
 		"map": "Crystal Scar",
 		"description": "Ascension",
@@ -495,7 +495,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"98": {
+	{
 		"id": 98,
 		"map": "Twisted Treeline",
 		"description": "6v6 Hexakill",
@@ -511,7 +511,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"100": {
+	{
 		"id": 100,
 		"map": "Butcher's Bridge",
 		"description": "5v5 ARAM",
@@ -527,7 +527,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"300": {
+	{
 		"id": 300,
 		"map": "Howling Abyss",
 		"description": "Legend of the Poro King",
@@ -543,7 +543,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"310": {
+	{
 		"id": 310,
 		"map": "Summoner's Rift",
 		"description": "Nemesis",
@@ -559,7 +559,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"313": {
+	{
 		"id": 313,
 		"map": "Summoner's Rift",
 		"description": "Black Market Brawlers",
@@ -575,7 +575,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"315": {
+	{
 		"id": 315,
 		"map": "Summoner's Rift",
 		"description": "Nexus Siege",
@@ -591,7 +591,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"317": {
+	{
 		"id": 317,
 		"map": "Crystal Scar",
 		"description": "Definitely Not Dominion",
@@ -607,7 +607,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"318": {
+	{
 		"id": 318,
 		"map": "Summoner's Rift",
 		"description": "ARURF",
@@ -623,7 +623,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"325": {
+	{
 		"id": 325,
 		"map": "Summoner's Rift",
 		"description": "All Random",
@@ -639,7 +639,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"400": {
+	{
 		"id": 400,
 		"map": "Summoner's Rift",
 		"description": "5v5 Draft Pick",
@@ -655,7 +655,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"410": {
+	{
 		"id": 410,
 		"map": "Summoner's Rift",
 		"description": "5v5 Ranked Dynamic",
@@ -671,7 +671,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"420": {
+	{
 		"id": 420,
 		"map": "Summoner's Rift",
 		"description": "5v5 Ranked Solo",
@@ -687,7 +687,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"430": {
+	{
 		"id": 430,
 		"map": "Summoner's Rift",
 		"description": "5v5 Blind Pick",
@@ -703,7 +703,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"440": {
+	{
 		"id": 440,
 		"map": "Summoner's Rift",
 		"description": "5v5 Ranked Flex",
@@ -719,7 +719,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"450": {
+	{
 		"id": 450,
 		"map": "Howling Abyss",
 		"description": "5v5 ARAM",
@@ -735,7 +735,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"460": {
+	{
 		"id": 460,
 		"map": "Twisted Treeline",
 		"description": "3v3 Blind Pick",
@@ -751,7 +751,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"470": {
+	{
 		"id": 470,
 		"map": "Twisted Treeline",
 		"description": "3v3 Ranked Flex",
@@ -767,7 +767,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"600": {
+	{
 		"id": 600,
 		"map": "Summoner's Rift",
 		"description": "Blood Hunt Assassin",
@@ -783,7 +783,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"610": {
+	{
 		"id": 610,
 		"map": "Cosmic Ruins",
 		"description": "Dark Star: Singularity",
@@ -799,7 +799,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"700": {
+	{
 		"id": 700,
 		"map": "Summoner's Rift",
 		"description": "Clash",
@@ -815,7 +815,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"800": {
+	{
 		"id": 800,
 		"map": "Twisted Treeline",
 		"description": "Co-op vs. AI Intermediate Bot",
@@ -831,7 +831,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"810": {
+	{
 		"id": 810,
 		"map": "Twisted Treeline",
 		"description": "Co-op vs. AI Intro Bot",
@@ -847,7 +847,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"820": {
+	{
 		"id": 820,
 		"map": "Twisted Treeline",
 		"description": "Co-op vs. AI Beginner Bot",
@@ -863,7 +863,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"830": {
+	{
 		"id": 830,
 		"map": "Summoner's Rift",
 		"description": "Co-op vs. AI Intro Bot",
@@ -879,7 +879,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"840": {
+	{
 		"id": 840,
 		"map": "Summoner's Rift",
 		"description": "Co-op vs. AI Beginner Bot",
@@ -895,7 +895,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"850": {
+	{
 		"id": 850,
 		"map": "Summoner's Rift",
 		"description": "Co-op vs. AI Intermediate Bot",
@@ -911,7 +911,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"900": {
+	{
 		"id": 900,
 		"map": "Summoner's Rift",
 		"description": "URF",
@@ -927,7 +927,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"910": {
+	{
 		"id": 910,
 		"map": "Crystal Scar",
 		"description": "Ascension",
@@ -943,7 +943,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"920": {
+	{
 		"id": 920,
 		"map": "Howling Abyss",
 		"description": "Legend of the Poro King",
@@ -959,7 +959,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"940": {
+	{
 		"id": 940,
 		"map": "Summoner's Rift",
 		"description": "Nexus Siege",
@@ -975,7 +975,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"950": {
+	{
 		"id": 950,
 		"map": "Summoner's Rift",
 		"description": "Doom Bots Voting",
@@ -991,7 +991,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"960": {
+	{
 		"id": 960,
 		"map": "Summoner's Rift",
 		"description": "Doom Bots Standard",
@@ -1007,7 +1007,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"980": {
+	{
 		"id": 980,
 		"map": "Valoran City Park",
 		"description": "Star Guardian Invasion: Normal",
@@ -1023,7 +1023,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"990": {
+	{
 		"id": 990,
 		"map": "Valoran City Park",
 		"description": "Star Guardian Invasion: Onslaught",
@@ -1039,7 +1039,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"1000": {
+	{
 		"id": 1000,
 		"map": "Overcharge",
 		"description": "PROJECT: Hunters",
@@ -1055,7 +1055,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"1010": {
+	{
 		"id": 1010,
 		"map": "Summoner's Rift",
 		"description": "Snow ARURF",
@@ -1071,7 +1071,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"1020": {
+	{
 		"id": 1020,
 		"map": "Summoner's Rift",
 		"description": "One for All",
@@ -1087,7 +1087,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"1030": {
+	{
 		"id": 1030,
 		"map": "Crash Site",
 		"description": "Odyssey Extraction: Intro",
@@ -1103,7 +1103,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"1040": {
+	{
 		"id": 1040,
 		"map": "Crash Site",
 		"description": "Odyssey Extraction: Cadet",
@@ -1119,7 +1119,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"1050": {
+	{
 		"id": 1050,
 		"map": "Crash Site",
 		"description": "Odyssey Extraction: Crewmember",
@@ -1135,7 +1135,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"1060": {
+	{
 		"id": 1060,
 		"map": "Crash Site",
 		"description": "Odyssey Extraction: Captain",
@@ -1151,7 +1151,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"1070": {
+	{
 		"id": 1070,
 		"map": "Crash Site",
 		"description": "Odyssey Extraction: Onslaught",
@@ -1167,7 +1167,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"1090": {
+	{
 		"id": 1090,
 		"map": "Convergence",
 		"description": "Teamfight Tactics",
@@ -1183,7 +1183,7 @@
 		"tutorial": false,
 		"tft": true
 	},
-	"1091": {
+	{
 		"id": 1091,
 		"map": "Convergence",
 		"description": "Teamfight Tactics 1v0",
@@ -1199,7 +1199,7 @@
 		"tutorial": false,
 		"tft": true
 	},
-	"1091": {
+	{
 		"id": 1092,
 		"map": "Convergence",
 		"description": "Teamfight Tactics 2v0",
@@ -1215,7 +1215,7 @@
 		"tutorial": false,
 		"tft": true
 	},
-	"1100": {
+	{
 		"id": 1100,
 		"map": "Convergence",
 		"description": "Ranked Teamfight Tactics",
@@ -1231,7 +1231,7 @@
 		"tutorial": false,
 		"tft": true
 	},
-	"1110": {
+	{
 		"id": 1110,
 		"map": "Convergence",
 		"description": "Teamfight Tactics Tutorial",
@@ -1247,7 +1247,7 @@
 		"tutorial": true,
 		"tft": true
 	},
-	"1200": {
+	{
 		"id": 1200,
 		"map": "Nexus Blitz",
 		"description": "Nexus Blitz",
@@ -1263,7 +1263,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"1300": {
+	{
 		"id": 1300,
 		"map": "Nexus Blitz",
 		"description": "Nexus Blitz",
@@ -1279,7 +1279,7 @@
 		"tutorial": false,
 		"tft": false
 	},
-	"2000": {
+	{
 		"id": 2000,
 		"map": "Summoner's Rift",
 		"description": "Tutorial 1",
@@ -1295,7 +1295,7 @@
 		"tutorial": true,
 		"tft": false
 	},
-	"2010": {
+	{
 		"id": 2010,
 		"map": "Summoner's Rift",
 		"description": "Tutorial 2",
@@ -1311,7 +1311,7 @@
 		"tutorial": true,
 		"tft": false
 	},
-	"2020": {
+	{
 		"id": 2020,
 		"map": "Summoner's Rift",
 		"description": "Tutorial 3",
@@ -1327,4 +1327,4 @@
 		"tutorial": true,
 		"tft": false
 	}
-}
+]
