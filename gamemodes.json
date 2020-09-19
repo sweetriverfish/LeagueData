@@ -1,0 +1,122 @@
+[
+	{
+		"gamemode": "CLASSIC",
+		"description": "Classic Summoner's Rift and Twisted Treeline games",
+		"map": [1, 2, 4, 10, 11]
+	},
+	{
+		"gamemode": "ODIN",
+		"description": "Dominion/Crystal Scar games",
+		"map": [8]
+	},
+	{
+		"gamemode": "ARAM",
+		"description": "ARAM games",
+		"map": [3, 12, 14]
+	},
+	{
+		"gamemode": "TUTORIAL",
+		"description": "Tutorial games",
+		"map": [3, 12]
+	},
+	{
+		"gamemode": "URF",
+		"description": "URF games",
+		"map": [1, 11]
+	},
+	{
+		"gamemode": "DOOMBOTSTEEMO",
+		"description": "Doom Bot games",
+		"map": [11]
+	},
+	{
+		"gamemode": "ONEFORALL",
+		"description": "One for All games",
+		"map": [1, 11, 12]
+	},
+	{
+		"gamemode": "ASCENSION",
+		"description": "Ascension games",
+		"map": [8]
+	},
+	{
+		"gamemode": "FIRSTBLOOD",
+		"description": "Snowdown Showdown games",
+		"map": [12]
+	},
+	{
+		"gamemode": "KINGPORO",
+		"description": "Legend of the Poro King games",
+		"map": [12]
+	},
+	{
+		"gamemode": "SIEGE",
+		"description": "Nexus Siege games",
+		"map": [11]
+	},
+	{
+		"gamemode": "ASSASSINATE",
+		"description": "Blood Hunt Assassin games",
+		"map": [11]
+	},
+	{
+		"gamemode": "ARSR",
+		"description": "All Random Summoner's Rift games",
+		"map": [11]
+	},
+	{
+		"gamemode": "DARKSTAR",
+		"description": "Dark Star: Singularity games",
+		"map": [16]
+	},
+	{
+		"gamemode": "STARGUARDIAN",
+		"description": "Star Guardian Invasion games",
+		"map": [18]
+	},
+	{
+		"gamemode": "PROJECT",
+		"description": "PROJECT: Hunters games",
+		"map": [19]
+	},
+	{
+		"gamemode": "PROJECT",
+		"description": "PROJECT: Hunters games",
+		"map": [19]
+	},
+	{
+		"gamemode": "TFT",
+		"description": "Nexus Blitz games",
+		"map": [22]
+	},
+	{
+		"gamemode": "gamemodeX",
+		"description": "Nexus Blitz games",
+		"map": [21]
+	},
+	{
+		"gamemode": "ODYSSEY",
+		"description": "Odyssey: Extraction games",
+		"map": [20]
+	},
+	{
+		"gamemode": "NEXUSBLITZ",
+		"description": "Nexus Blitz games",
+		"map": [21]
+	},
+	{
+		"gamemode": "TUTORIAL_MODULE_1",
+		"description": "Tutorial Part 1",
+		"map": [11]
+	},
+	{
+		"gamemode": "TUTORIAL_MODULE_2",
+		"description": "Tutorial Part 2",
+		"map": [11]
+	},
+	{
+		"gamemode": "TUTORIAL_MODULE_3",
+		"description": "Tutorial Part 3",
+		"map": [11]
+	}
+]
