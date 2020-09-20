@@ -118,5 +118,10 @@
 		"gamemode": "TUTORIAL_MODULE_3",
 		"description": "Tutorial Part 3",
 		"map": [11]
+	},
+	{
+		"gamemode": "PRACTICETOOL",
+		"description": "Practice Tool",
+		"map": [11]
 	}
 ]
