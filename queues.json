@@ -546,7 +546,7 @@
 	{
 		"id": 310,
 		"map": "Summoner's Rift",
-		"description": "Nemesis",
+		"description": "Nemesis Draft",
 		"gamemode": "CLASSIC",
 		"champSelect": null,
 		"teamsize": 5,
@@ -916,7 +916,7 @@
 		"map": "Summoner's Rift",
 		"description": "URF",
 		"gamemode": "URF",
-		"champSelect": 20,
+		"champSelect": 16,
 		"teamsize": 5,
 		"pvp": true,
 		"ranked": false,
@@ -1058,7 +1058,7 @@
 	{
 		"id": 1010,
 		"map": "Summoner's Rift",
-		"description": "Snow ARURF",
+		"description": "Snow Battle ARURF",
 		"gamemode": "SNOWURF",
 		"champSelect": null,
 		"teamsize": 5,
@@ -1282,7 +1282,7 @@
 	{
 		"id": 2000,
 		"map": "Summoner's Rift",
-		"description": "Tutorial 1",
+		"description": "Tutorial Part 1",
 		"gamemode": "TUTORIAL_MODULE_1",
 		"champSelect": 19,
 		"teamsize": 1,
@@ -1298,7 +1298,7 @@
 	{
 		"id": 2010,
 		"map": "Summoner's Rift",
-		"description": "Tutorial 2",
+		"description": "Tutorial Part 2",
 		"gamemode": "TUTORIAL_MODULE_2",
 		"champSelect": 19,
 		"teamsize": 5,
@@ -1314,7 +1314,7 @@
 	{
 		"id": 2020,
 		"map": "Summoner's Rift",
-		"description": "Tutorial 3",
+		"description": "Tutorial Part 3",
 		"gamemode": "TUTORIAL_MODULE_3",
 		"champSelect": 19,
 		"teamsize": 5,
