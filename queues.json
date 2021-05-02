@@ -1248,6 +1248,22 @@
 		"tft": true
 	},
 	{
+		"id": 1111,
+		"map": "Convergence",
+		"description": "Teamfight Tactics test games",
+		"gamemode": "TFT",
+		"champSelect": null,
+		"teamsize": 1,
+		"pvp": null,
+		"ranked": false,
+		"rgm": false,
+		"deprecated": false,
+		"newId": null,
+		"everEnabled": false,
+		"tutorial": null,
+		"tft": true
+	},
+	{
 		"id": 1130,
 		"map": "Convergence",
 		"description": "Teamfight Tactics Hyper Roll",
