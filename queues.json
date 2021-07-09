@@ -1312,6 +1312,22 @@
 		"tft": false
 	},
 	{
+		"id": 1400,
+		"map": "Summoner's Rift",
+		"description": "Ultimate Spellbook",
+		"gamemode": "ULTBOOK",
+		"champSelect": 19,
+		"teamsize": 5,
+		"pvp": true,
+		"ranked": false,
+		"rgm": true,
+		"deprecated": false,
+		"newId": null,
+		"everEnabled": true,
+		"tutorial": false,
+		"tft": false
+	},
+	{
 		"id": 2000,
 		"map": "Summoner's Rift",
 		"description": "Tutorial Part 1",
