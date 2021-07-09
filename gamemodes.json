@@ -105,6 +105,11 @@
 		"map": [21]
 	},
 	{
+		"gamemode": "ULTBOOK",
+		"description": "Ultimate Spellbook games",
+		"map": [11]
+	},
+	{
 		"gamemode": "TUTORIAL_MODULE_1",
 		"description": "Tutorial Part 1",
 		"map": [11]
