@@ -921,7 +921,7 @@
 		"pvp": true,
 		"ranked": false,
 		"rgm": true,
-		"deprecated": yes,
+		"deprecated": true,
 		"newId": 1900,
 		"everEnabled": true,
 		"tutorial": false,
