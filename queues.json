@@ -816,6 +816,22 @@
 		"tft": false
 	},
 	{
+		"id": 720,
+		"map": "Howling Abyss",
+		"description": "ARAM Clash",
+		"gamemode": "ARAM",
+		"champSelect": null,
+		"teamsize": 5,
+		"pvp": true,
+		"ranked": false,
+		"rgm": null,
+		"deprecated": false,
+		"newId": null,
+		"everEnabled": true,
+		"tutorial": false,
+		"tft": false
+	},
+	{
 		"id": 800,
 		"map": "Twisted Treeline",
 		"description": "Co-op vs. AI Intermediate Bot",
