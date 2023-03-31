@@ -928,6 +928,22 @@
 		"tft": false
 	},
 	{
+		"id": 860,
+		"map": "Howling Abyss",
+		"description": "Co-op vs. AI (ARAM)",
+		"gamemode": "CLASSIC",
+		"champSelect": null,
+		"teamsize": 5,
+		"pvp": false,
+		"ranked": false,
+		"rgm": false,
+		"deprecated": null,
+		"newId": null,
+		"everEnabled": null,
+		"tutorial": false,
+		"tft": false
+	},
+	{
 		"id": 900,
 		"map": "Summoner's Rift",
 		"description": "Ultra Rapid Fire",
