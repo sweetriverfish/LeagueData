@@ -110,6 +110,11 @@
 		"map": [11]
 	},
 	{
+		"gamemode": "CHERRY",
+		"description": "Arena games",
+		"map": [30]
+	},
+	{
 		"gamemode": "TUTORIAL_MODULE_1",
 		"description": "Tutorial Part 1",
 		"map": [11]
