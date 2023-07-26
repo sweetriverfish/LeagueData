@@ -1396,7 +1396,7 @@
 		"map": "Arena",
 		"description": "Arena",
 		"gamemode": "CHERRY",
-		"champSelect": null,
+		"champSelect": 20,
 		"teamsize": 2,
 		"pvp": true,
 		"ranked": false,
