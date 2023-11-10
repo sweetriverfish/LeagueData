@@ -772,7 +772,7 @@
 		"map": "Summoner's Rift",
 		"description": "Quickplay",
 		"gamemode": "CLASSIC",
-		"champSelect": 18,
+		"champSelect": 23,
 		"teamsize": 5,
 		"pvp": true,
 		"ranked": false,
