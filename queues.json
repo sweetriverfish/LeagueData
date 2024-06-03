@@ -1369,8 +1369,8 @@
 		"pvp": true,
 		"ranked": false,
 		"rgm": false,
-		"deprecated": false,
-		"newId": null,
+		"deprecated": true,
+		"newId": 1210,
 		"everEnabled": true,
 		"tutorial": false,
 		"tft": true
@@ -1390,6 +1390,22 @@
 		"everEnabled": true,
 		"tutorial": false,
 		"tft": false
+	},
+	{
+		"id": 1210,
+		"map": "Convergence",
+		"description": "Teamfight Tactics (Choncc's Treasure)",
+		"gamemode": "TFT",
+		"champSelect": null,
+		"teamsize": null,
+		"pvp": true,
+		"ranked": false,
+		"rgm": false,
+		"deprecated": false,
+		"newId": null,
+		"everEnabled": true,
+		"tutorial": false,
+		"tft": true
 	},
 	{
 		"id": 1300,
