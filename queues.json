@@ -1344,6 +1344,22 @@
 		"tft": true
 	},
 	{
+		"id": 1160,
+		"map": "Convergence",
+		"description": "Teamfight Tactics (Double Up Workshop)",
+		"gamemode": "TFT",
+		"champSelect": null,
+		"teamsize": 2,
+		"pvp": true,
+		"ranked": false,
+		"rgm": false,
+		"deprecated": false,
+		"newId": null,
+		"everEnabled": true,
+		"tutorial": false,
+		"tft": true
+	},
+	{
 		"id": 1180,
 		"map": "Convergence",
 		"description": "Teamfight Tactics (Soul Brawl)",
@@ -1518,5 +1534,21 @@
 		"everEnabled": true,
 		"tutorial": true,
 		"tft": false
+	},
+	{
+		"id": 6120,
+		"map": "Convergence",
+		"description": "Teamfight Tactics (Pengu's Party)",
+		"gamemode": "TFT",
+		"champSelect": null,
+		"teamsize": 1,
+		"pvp": false,
+		"ranked": false,
+		"rgm": false,
+		"deprecated": false,
+		"newId": null,
+		"everEnabled": true,
+		"tutorial": false,
+		"tft": true
 	}
 ]
