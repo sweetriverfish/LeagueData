@@ -768,6 +768,22 @@
 		"tft": false
 	},
 	{
+		"id": 480,
+		"map": "Summoner's Rift",
+		"description": "Swiftplay",
+		"gamemode": "SWIFTPLAY",
+		"champSelect": 23,
+		"teamsize": 5,
+		"pvp": true,
+		"ranked": false,
+		"rgm": false,
+		"deprecated": false,
+		"newId": null,
+		"everEnabled": true,
+		"tutorial": false,
+		"tft": false
+	},
+	{
 		"id": 490,
 		"map": "Summoner's Rift",
 		"description": "Quickplay",
