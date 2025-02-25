@@ -1632,6 +1632,22 @@
 		"tft": false
 	},
 	{
+		"id": 6100,
+		"map": "Convergence",
+		"description": "Teamfight Tactics (Revival: Festival of Beasts)",
+		"gamemode": "TFT",
+		"champSelect": null,
+		"teamsize": 1,
+		"pvp": false,
+		"ranked": false,
+		"rgm": false,
+		"deprecated": false,
+		"newId": null,
+		"everEnabled": true,
+		"tutorial": false,
+		"tft": true
+	},
+	{
 		"id": 6110,
 		"map": "Convergence",
 		"description": "Teamfight Tactics (Revival: Dawn of Heroes)",
