@@ -1489,7 +1489,7 @@
 	},
 	{
 		"id": 1700,
-		"map": "Arena",
+		"map": "Rings of Wrath",
 		"description": "Arena",
 		"gamemode": "CHERRY",
 		"champSelect": 20,
@@ -1629,6 +1629,22 @@
 		"newId": null,
 		"everEnabled": true,
 		"tutorial": true,
+		"tft": false
+	},
+	{
+		"id": 2300,
+		"map": "The Bandlewood",
+		"description": "Brawl",
+		"gamemode": "BRAWL",
+		"champSelect": 23,
+		"teamsize": 5,
+		"pvp": true,
+		"ranked": false,
+		"rgm": true,
+		"deprecated": false,
+		"newId": null,
+		"everEnabled": true,
+		"tutorial": false,
 		"tft": false
 	},
 	{
