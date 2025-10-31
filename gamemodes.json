@@ -15,6 +15,11 @@
 		"map": [3, 12, 14]
 	},
 	{
+		"gamemode": "KIWI",
+		"description": "ARAM: Mayhem games",
+		"map": [12]
+	},
+	{
 		"gamemode": "TUTORIAL",
 		"description": "Tutorial games",
 		"map": [3, 12]
@@ -140,3 +145,4 @@
 		"map": [11]
 	}
 ]
+
