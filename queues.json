@@ -1712,6 +1712,22 @@
 		"tft": false
 	},
 	{
+		"id": 3140,
+		"map": null,
+		"description": "Multiplayer Practice Tool Custom",
+		"gamemode": null,
+		"champSelect": null,
+		"teamsize": null,
+		"pvp": null,
+		"ranked": null,
+		"rgm": null,
+		"deprecated": null,
+		"newId": null,
+		"everEnabled": null,
+		"tutorial": null,
+		"tft": null
+	},
+	{
 		"id": 6100,
 		"map": "Convergence",
 		"description": "Teamfight Tactics (Revival: Festival of Beasts)",
@@ -1760,4 +1776,5 @@
 		"tft": true
 	}
 ]
+
 
