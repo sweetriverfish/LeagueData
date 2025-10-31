@@ -1696,6 +1696,22 @@
 		"tft": false
 	},
 	{
+		"id": 2400,
+		"map": "Howling Abyss",
+		"description": "5v5 ARAM Mayhem",
+		"gamemode": "KIWI",
+		"champSelect": 21,
+		"teamsize": 5,
+		"pvp": true,
+		"ranked": false,
+		"rgm": true,
+		"deprecated": false,
+		"newId": null,
+		"everEnabled": true,
+		"tutorial": false,
+		"tft": false
+	},
+	{
 		"id": 6100,
 		"map": "Convergence",
 		"description": "Teamfight Tactics (Revival: Festival of Beasts)",
@@ -1744,3 +1760,4 @@
 		"tft": true
 	}
 ]
+
